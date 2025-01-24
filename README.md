@@ -1,0 +1,2 @@
+# CIC
+Circular Image Compression
